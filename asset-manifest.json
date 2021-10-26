@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/fire-tasks-csv/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/fire-tasks-csv/static/js/main.5a2557fe.chunk.js",
+    "main.js.map": "/fire-tasks-csv/static/js/main.5a2557fe.chunk.js.map",
+    "runtime-main.js": "/fire-tasks-csv/static/js/runtime-main.3c19132e.js",
+    "runtime-main.js.map": "/fire-tasks-csv/static/js/runtime-main.3c19132e.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/fire-tasks-csv/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.30e30c57.chunk.js": "/fire-tasks-csv/static/js/2.30e30c57.chunk.js",
+    "static/js/2.30e30c57.chunk.js.map": "/fire-tasks-csv/static/js/2.30e30c57.chunk.js.map",
+    "static/js/3.e580ea57.chunk.js": "/fire-tasks-csv/static/js/3.e580ea57.chunk.js",
+    "static/js/3.e580ea57.chunk.js.map": "/fire-tasks-csv/static/js/3.e580ea57.chunk.js.map",
+    "index.html": "/fire-tasks-csv/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/fire-tasks-csv/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/fire-tasks-csv/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.30e30c57.chunk.js.LICENSE.txt": "/fire-tasks-csv/static/js/2.30e30c57.chunk.js.LICENSE.txt",
+    "static/media/addicondark.491ce319.svg": "/fire-tasks-csv/static/media/addicondark.491ce319.svg",
+    "static/media/addiconlight.f753321f.svg": "/fire-tasks-csv/static/media/addiconlight.f753321f.svg",
+    "static/media/backgrounddark.9a97ca50.svg": "/fire-tasks-csv/static/media/backgrounddark.9a97ca50.svg",
+    "static/media/backgroundlight.05fc63ab.svg": "/fire-tasks-csv/static/media/backgroundlight.05fc63ab.svg",
+    "static/media/copyicon.ac79352e.svg": "/fire-tasks-csv/static/media/copyicon.ac79352e.svg",
+    "static/media/githubicon.55b351b5.svg": "/fire-tasks-csv/static/media/githubicon.55b351b5.svg",
+    "static/media/logo.846060fd.svg": "/fire-tasks-csv/static/media/logo.846060fd.svg",
+    "static/media/moonicon.635359ad.svg": "/fire-tasks-csv/static/media/moonicon.635359ad.svg",
+    "static/media/sunicon.9beaa379.svg": "/fire-tasks-csv/static/media/sunicon.9beaa379.svg",
+    "static/media/trashdark.275efb1e.svg": "/fire-tasks-csv/static/media/trashdark.275efb1e.svg",
+    "static/media/trashlight.7709c08a.svg": "/fire-tasks-csv/static/media/trashlight.7709c08a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c19132e.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.30e30c57.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5a2557fe.chunk.js"
+  ]
+}
